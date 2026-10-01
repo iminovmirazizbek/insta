@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+staticfiles/
+media/
+node_modules/
+react/node_modules/
+react/dist/
+.DS_Store
+# NOTE: db.sqlite3 is intentionally kept in git: it contains the admin account used to seed production.
